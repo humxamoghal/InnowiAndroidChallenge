@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InnowiChallenge</string>
+    <string name="msg_network_error">Something went wrong</string>
+</resources>
